@@ -20,9 +20,15 @@ Cool and simple web-app that supports CRUD operations and authentication and reg
 
 ## *Technologies were used to create this project:*
 
-- Java;
+- JDK v.11;
+- Maven v.4.0.0;
+- Java JDBC;
 - MySQL database;
 - Apache Tomcat software;
+- Servlet v.4.0.1;
+- HTML/CSS;
+- JSTL;
+- JSP;
 - GIT;
 
 ## *Startup Instructions:*
