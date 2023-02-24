@@ -1,33 +1,7 @@
-# 🚖TAXI-SERVICE🚖
-
-## *Project description:*
-```
-Cool and simple web-app that supports CRUD operations and authentication and registration.
-```
-## *Main Features:*
-
-|  №   |          Feature                 |
-|-----:|----------------------------------|
-|     1| Registration as driver           |
-|     2| Authentification as a driver     |
-|     3| Create/update/remove driver      |
-|     4| Create/update/remove car         |
-|     5| Create/update/remove manifacturer|
-|     6| Display list of all manifacturers|
-|     7| Display list of all drivers      |
-|     8| Display list of all cars         |
-|     9| Adding driver to the car         |
-
-## *Technologies were used to create this project:*
-
-- Java;
-- MySQL database;
-- Apache Tomcat software;
-- GIT;
-
-## *Startup Instructions:*
-	
-- Install/Setup connection to the MySQL database, visit init_db.sql file to have an acces to db data.
-- Install/Setup Tomcat v.9.0.* 
-- Check/add pom.xml for mysql, servlet dependencies.
-- Enjoy the project ;)
+# taxi-service
+# taxi-service
+# taxi-service
+# taxi-service
+# taxi-service
+# taxi-service
+# taxi-service
