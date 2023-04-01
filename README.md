@@ -2,7 +2,7 @@
 
 ## *Project description:*
 ```
-Cool and simple web-app that supports CRUD operations and authentication and registration.
+Cool and simple web-app that supports CRUD operations, authentication and registration.
 ```
 ## *Main Features:*
 
